@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         testDot();
     }
 
+
     private void testDot() {
          final LinearLayout mPoint_1;
          final LinearLayout mPoint_2;

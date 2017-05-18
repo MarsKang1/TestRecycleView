@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
         mPoint_2 = (LinearLayout) findViewById(R.id.ll_point_circle_2);
         mPoint_3 = (LinearLayout) findViewById(R.id.ll_point_circle_3);
         mPoint_4 = (LinearLayout) findViewById(R.id.ll_point_circle_4);
-
         Button startAni = (Button) findViewById(R.id.start_ani_2);
         startAni.setOnClickListener(new View.OnClickListener() {
             @Override

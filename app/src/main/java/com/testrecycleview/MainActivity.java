@@ -160,6 +160,13 @@ public class MainActivity extends AppCompatActivity {
 
 
     class DouAnim extends Animation {
+
+
+
+
+
+
+
         //interpolatedTime 表示当前动画进行的时间与动画总时间 从0逐渐增大到1
         //t 传递当前动画对象
         @Override
